@@ -1,0 +1,1 @@
+cd wmOS && make run_full
